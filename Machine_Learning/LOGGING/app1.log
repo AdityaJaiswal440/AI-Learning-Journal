@@ -1,0 +1,5 @@
+2026-01-18 17:31:10-ArithmeticApp-DEBUG-Adding 15 + 10 = 25
+2026-01-18 17:31:10-ArithmeticApp-DEBUG-Subrtracting 15 - 10 = 5
+2026-01-18 17:31:10-ArithmeticApp-DEBUG-Multiplying 15 * 10 = 150
+2026-01-18 17:31:10-ArithmeticApp-DEBUG-Dividing 150 / 10 = 15.0
+2026-01-18 17:31:10-ArithmeticApp-ERROR-Division by zero error
